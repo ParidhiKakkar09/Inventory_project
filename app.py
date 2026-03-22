@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import pyodbc
 
 st.set_page_config(
     page_title="Intelligent Inventory Optimization",
